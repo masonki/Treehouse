@@ -1,6 +1,6 @@
 ## Treehouse 
 
-This repo is for all of my course files completed hrough team treehouse. 
+This repo is for all of my course files completed hrough team Treehouse. 
 
 Also check out my treehouse profile [here] (https://teamtreehouse.com/kirstymason). 
 
